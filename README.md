@@ -68,10 +68,10 @@ The radiation pattern demonstrates the directional radiation characteristics of 
 
 The simulated Yagi antenna operates at **1 GHz** and provides:
 
-- S11 / Return Loss: **-18.29 dB**
-- VSWR: **1.27**
-- Gain: **8.049 dBi**
-- Directivity: **8.029 dBi**
+- **S11 / Return Loss:** -18.29 dB
+- **VSWR:** 1.27
+- **Gain:** 8.049 dBi
+- **Directivity:** 8.029 dBi
 
 These results demonstrate the directional characteristics and impedance matching performance of the simulated antenna.
 
