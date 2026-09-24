@@ -22,7 +22,7 @@ The reflector helps reduce radiation toward the rear, while the directors help r
 
 The antenna was designed and simulated using **CST Studio Suite**.
 
-### Design Parameters
+### Design and Performance Parameters
 
 | Parameter | Value |
 |---|---:|
@@ -42,42 +42,36 @@ The CST simulation model of the Yagi antenna is shown below.
 
 ### S11 / Return Loss
 
-The S11 parameter shows the amount of power reflected from the antenna input.
+The S11 parameter indicates the amount of power reflected from the antenna input.
 
-![S11 Return Loss](Simulation_Results/S11_Return_Loss.png)
+![S11 Return Loss](Simulation_Results/S11_Return_Loss.jpeg)
 
 ### VSWR
 
 VSWR indicates the impedance matching between the antenna and the feeding system.
 
-![VSWR](Simulation_Results/VSWR.png)
+![VSWR](Simulation_Results/VSWR.jpeg)
 
 ### Gain
 
 The simulated antenna gain is **8.049 dBi**.
 
-![Gain](Simulation_Results/Gain.png)
-
-### Directivity
-
-The simulated antenna directivity is **8.029 dBi**.
-
-![Directivity](Simulation_Results/Directivity.png)
+![Gain](Simulation_Results/Gain.jpeg)
 
 ### Radiation Pattern
 
 The radiation pattern demonstrates the directional radiation characteristics of the Yagi antenna.
 
-![Radiation Pattern](Simulation_Results/Radiation_Pattern.png)
+![Radiation Pattern](Simulation_Results/Radiation_Pattern.jpeg)
 
 ## Key Results
 
 The simulated Yagi antenna operates at **1 GHz** and provides:
 
-- S11 of **-18.29 dB**
-- VSWR of **1.27**
-- Gain of **8.049 dBi**
-- Directivity of **8.029 dBi**
+- S11 / Return Loss: **-18.29 dB**
+- VSWR: **1.27**
+- Gain: **8.049 dBi**
+- Directivity: **8.029 dBi**
 
 These results demonstrate the directional characteristics and impedance matching performance of the simulated antenna.
 
